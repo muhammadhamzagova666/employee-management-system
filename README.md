@@ -27,8 +27,6 @@ The Employee Management System is a C++ application designed to manage employee 
    
 3. **Run the Application**
    - Execute the compiled binary. The application will launch in a console window.
-   
-> **Note:** Ensure that your system supports Windows-specific headers and functions used in this project.
 
 ## Usage
 - **Login / Register:** Start the program and select "Login" or "Register" to access the system.
